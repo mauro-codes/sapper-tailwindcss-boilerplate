@@ -6,6 +6,6 @@
 
 <Nav {segment}/>
 
-<main class="lg:mt-20 container mx-auto p-4">
+<main>
 	<slot></slot>
 </main>
